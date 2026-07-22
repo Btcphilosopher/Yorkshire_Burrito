@@ -1,0 +1,6 @@
+{
+  "name": "Yorkshire Burrito",
+  "description": "The official app for Britain's favourite roast dinner wrap! Seamless ordering, custom burrito building, digital loyalty cards, location discovery, and an AI Burrito Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
